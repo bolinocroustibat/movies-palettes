@@ -3,3 +3,19 @@
 .env
 
 *.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local SQLite
+*.db
+*.sqlite3
+
+# pyenv
+.python-version
